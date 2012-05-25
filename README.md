@@ -1,2 +1,1 @@
-Directx7_sdk_doc
-================
+DirectX7（DirectDraw） SDK 中文帮助文档
